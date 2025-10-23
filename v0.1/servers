@@ -6,5 +6,7 @@
       "description": "Tools and resources for GitHub repos, issues, PRs, and Actions.",
       "manifest_url": "https://api.githubcopilot.com/mcp/"
     }
-  ]
+  ],
+  "total_count": 1,
+  "updated_at": "2025-10-23T00:00:00Z"
 }
